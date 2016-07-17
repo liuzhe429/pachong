@@ -1,0 +1,19 @@
+{
+  "name": "20160717-pachong-linux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-compiled.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.0",
+    "cheerio": "^0.20.0",
+    "cron": "^1.1.0",
+    "debug": "^2.2.0",
+    "iconv-lite": "^0.4.13",
+    "mongoose": "^4.5.4"
+  }
+}
